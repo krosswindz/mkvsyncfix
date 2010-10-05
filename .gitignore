@@ -1,0 +1,14 @@
+# exclude executable files
+*.exe
+
+# exclude meta files
+*.meta
+
+# exclude object files
+*.o
+
+# exclude sfv files
+*.sfv
+
+# exclude vim swap files
+*.sw?
