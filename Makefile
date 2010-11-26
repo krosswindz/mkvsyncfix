@@ -1,6 +1,6 @@
 #
-# By Bharath Ramesh,	2007	Makefile
-# © Copyrights 2007, Bharath Ramesh. All rights reserved.
+# Copyright (c) 2010 Kross Windz <krosswindz@gmail.com>
+# All rights reserved.
 #
 
 # set compiler to be used
